@@ -8,7 +8,7 @@ Using qo0's base 'cause I'm lazy :p
 cred: https://github.com/rollraw/qo0-base
 
 ## Features:
-
+*cricket noises*
 ## Todo:
 * Autoqueue
 * Buybot
